@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "tomshardware",
+    "url": "https://www.tomshardware.com/feeds/all",
+    "channelId": "1326290306060259452"
+  },
+  {
+    "id": 2,
+    "title": "investing-tr",
+    "url": "https://tr.investing.com/rss/news_25.rss",
+    "channelId": "1326290306060259452"
+  },
+  {
+    "id": 3,
+    "title": "guru3d",
+    "url": "https://www.guru3d.com/atom.xml",
+    "channelId": "1326290306060259452"
+  },
+  {
+    "id": 4,
+    "title": "deepseak",
+    "url": "https://status.deepseek.com/history.atom",
+    "channelId": "1326290306060259452"
+  },
+  {
+    "id": 1738330310376,
+    "title": "techpowerup.com",
+    "url": "https://www.techpowerup.com/rss/news",
+    "channelId": "1326285121258520680"
+  },
+  {
+    "id": 1738330353896,
+    "title": "Cloudflare-Status",
+    "url": "https://www.cloudflarestatus.com/history.atom",
+    "channelId": "1326290306060259452"
+  }
+]
